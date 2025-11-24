@@ -11,83 +11,56 @@ export default function CodeOfConduct() {
           
           <div className="space-y-8 text-gray-700">
             <div>
-              <h2 className="text-2xl font-bold mt-8 mb-4 text-gray-900">General Principles</h2>
-              <p className="leading-relaxed mb-4">
-                All participants in the Pan African Informatics Olympiad are expected to maintain the highest standards of integrity, respect, and professionalism throughout their participation.
+              <p className="text-lg leading-relaxed mb-6">
+                All participants are expected to adhere to the following code of conduct:
               </p>
-            </div>
-
-            <div>
-              <h2 className="text-2xl font-bold mb-4 text-gray-900">Academic Integrity</h2>
-              <ul className="space-y-3">
+              
+              <ul className="space-y-4">
                 <li className="flex gap-3">
-                  <span className="text-red-600 font-bold">•</span>
-                  <span>No plagiarism or copying of code from other sources</span>
+                  <span className="text-blue-600 font-bold">•</span>
+                  <span>Participants must act with integrity and honesty at all times.</span>
                 </li>
                 <li className="flex gap-3">
-                  <span className="text-red-600 font-bold">•</span>
-                  <span>All submitted solutions must be original work by team members</span>
+                  <span className="text-blue-600 font-bold">•</span>
+                  <span>Any form of cheating or plagiarism will result in immediate disqualification.</span>
                 </li>
                 <li className="flex gap-3">
-                  <span className="text-red-600 font-bold">•</span>
-                  <span>No unauthorized collaboration with other teams</span>
+                  <span className="text-blue-600 font-bold">•</span>
+                  <span>Participants must treat others with respect and courtesy.</span>
                 </li>
                 <li className="flex gap-3">
-                  <span className="text-red-600 font-bold">•</span>
-                  <span>Proper citation of any external resources or algorithms used</span>
-                </li>
-              </ul>
-            </div>
-
-            <div>
-              <h2 className="text-2xl font-bold mb-4 text-gray-900">Professional Conduct</h2>
-              <ul className="space-y-3">
-                <li className="flex gap-3">
-                  <span className="text-green-600 font-bold">✓</span>
-                  <span>Treat all judges, organizers, and other participants with respect</span>
+                  <span className="text-blue-600 font-bold">•</span>
+                  <span>Any form of harassment or discrimination will not be tolerated.</span>
                 </li>
                 <li className="flex gap-3">
-                  <span className="text-green-600 font-bold">✓</span>
-                  <span>Maintain a positive and supportive atmosphere</span>
+                  <span className="text-blue-600 font-bold">•</span>
+                  <span>Participants should not attempt to access unauthorized systems, files, or documentation during the competition.</span>
                 </li>
                 <li className="flex gap-3">
-                  <span className="text-green-600 font-bold">✓</span>
-                  <span>Follow all competition rules and instructions</span>
+                  <span className="text-blue-600 font-bold">•</span>
+                  <span>Maintain focus during competition hours and avoid distracting other participants.</span>
                 </li>
                 <li className="flex gap-3">
-                  <span className="text-green-600 font-bold">✓</span>
-                  <span>Accept results gracefully, whether winning or not</span>
-                </li>
-              </ul>
-            </div>
-
-            <div>
-              <h2 className="text-2xl font-bold mb-4 text-gray-900">Prohibited Conduct</h2>
-              <ul className="space-y-3">
-                <li className="flex gap-3">
-                  <span className="text-red-600 font-bold">✗</span>
-                  <span>Sabotage or interference with other teams' work</span>
+                  <span className="text-blue-600 font-bold">•</span>
+                  <span>Adhere to all rules set by judges and organizers regarding submission procedures, tool usage, and competition format.</span>
                 </li>
                 <li className="flex gap-3">
-                  <span className="text-red-600 font-bold">✗</span>
-                  <span>Dishonest or deceptive behavior</span>
+                  <span className="text-blue-600 font-bold">•</span>
+                  <span>Accept results gracefully and congratulate fellow competitors regardless of outcomes.</span>
                 </li>
                 <li className="flex gap-3">
-                  <span className="text-red-600 font-bold">✗</span>
-                  <span>Harassment or discrimination of any kind</span>
+                  <span className="text-blue-600 font-bold">•</span>
+                  <span>Respect all time limits and deadlines set for the competition.</span>
                 </li>
                 <li className="flex gap-3">
-                  <span className="text-red-600 font-bold">✗</span>
-                  <span>Use of unauthorized tools or resources during competition</span>
+                  <span className="text-blue-600 font-bold">•</span>
+                  <span>No disruptive behavior, substance abuse, or violations of venue policies.</span>
+                </li>
+                <li className="flex gap-3">
+                  <span className="text-blue-600 font-bold">•</span>
+                  <span>If you witness misconduct, report it to organizers rather than handling it independently.</span>
                 </li>
               </ul>
-            </div>
-
-            <div className="bg-gray-100 p-6 rounded-lg border-l-4 border-gray-800 mt-8">
-              <h3 className="font-bold text-gray-900 mb-2">Violations & Consequences</h3>
-              <p>
-                Violations of this code of conduct may result in disqualification from the competition, revocation of awards, or banning from future PAIO events. Serious violations may be reported to relevant authorities.
-              </p>
             </div>
           </div>
         </div>

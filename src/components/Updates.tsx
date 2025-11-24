@@ -8,6 +8,11 @@ export default function Updates() {
       // date: 'September 15, 2025'
     },
     {
+      title: 'Competition Resources',
+      link: 'https://www.panafricanio.com/resources',
+      description: 'Access curated books, links, contests and problem sets to help prepare for PAIO and other olympiads.'
+    },
+    {
       title: 'Call for Host',
       link: '/calls/hosts',
       description: 'Countries interested in hosting PAIO 2026 can now express their interest.'
@@ -15,11 +20,6 @@ export default function Updates() {
     {
       title: 'Assembly & Meetings',
       description: 'During PAIO 2025, there were 3 GA meetings that shaped the orientation of the competition. The General Assembly consisted of 14 participating countries.'
-    },
-    {
-      title: 'Competition Resources',
-      link: 'https://www.panafricanio.com/resources',
-      description: 'Access curated books, links, contests and problem sets to help prepare for PAIO and other olympiads.'
     }
   ];
 

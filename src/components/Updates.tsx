@@ -5,23 +5,21 @@ export default function Updates() {
       title: 'PAIO 2025 Results Released',
       description: 'Competition results and statistics are now available',
       link: 'https://www.panafricanio.com/results',
-      date: 'November 2025'
+      // date: 'September 15, 2025'
     },
     {
-      title: 'Call for Participation',
-      description: 'Open call for teams from across Africa. Register your school and participate in this prestigious competition.'
+      title: 'Call for Host',
+      link: '/calls/hosts',
+      description: 'Countries interested in hosting PAIO 2026 can now express their interest.'
     },
     {
       title: 'Assembly & Meetings',
-      description: 'Join our community assembly meetings to discuss strategies and network with other participants.'
-    },
-    {
-      title: 'Awards & Recognition',
-      description: 'Compete for prestigious awards, scholarships, and international recognition.'
+      description: 'During PAIO 2025, there were 3 GA meetings that shaped the orientation of the competition. The General Assembly consisted of 14 participating countries.'
     },
     {
       title: 'Competition Resources',
-      description: 'Access comprehensive guides, problem sets, and technical documentation to prepare for the competition.'
+      link: 'https://www.panafricanio.com/resources',
+      description: 'Access curated books, links, contests and problem sets to help prepare for PAIO and other olympiads.'
     }
   ];
 
@@ -42,9 +40,10 @@ export default function Updates() {
                     rel="noopener noreferrer"
                     className="text-black font-semibold hover:text-gray-600"
                   >
-                    View Results →
+                    Learn more →
                   </a>
-                  <span className="text-gray-600 text-sm">{update.date}</span>
+                  {/* {update.date && <span className="text-gray-600 text-sm">{update.date}</span>} */}
+                  
                 </div>
               )}
             </div>

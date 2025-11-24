@@ -2,9 +2,9 @@ import Link from 'next/link';
 
 export default function Footer() {
   return (
-    <footer className="bg-white mt-16">
-      <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
+    <footer className="bg-gray-50 border-t border-gray-200 mt-1">
+      <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-6">
           {/* About Section */}
           <div>
             <h3 className="text-black font-bold text-lg mb-4">About PAIO</h3>
@@ -29,14 +29,14 @@ export default function Footer() {
           <div>
             <h3 className="text-black font-bold text-lg mb-4">Follow Us</h3>
             <div className="flex gap-4">
-              <a href="#" className="text-gray-800 hover:text-black transition">Twitter</a>
-              <a href="#" className="text-gray-800 hover:text-black transition">Facebook</a>
-              <a href="#" className="text-gray-800 hover:text-black transition">LinkedIn</a>
+              {/* <a href="#" className="text-gray-800 hover:text-black transition">X</a> */}
+              <a href="#" target='_blank' className="text-gray-800 hover:text-black transition">Facebook</a>
+              <a href="https://www.linkedin.com/company/pan-african-informatics-olympiad/about" target='_blank' className="text-gray-800 hover:text-black transition">LinkedIn</a>
             </div>
           </div>
         </div>
 
-        <div className="border-t border-gray-800 pt-8 text-center text-sm text-gray-800">
+        <div className="border-t border-gray-300 pt-6 text-center text-sm text-gray-600">
           <p>&copy; 2025 Pan African Informatics Olympiad. All rights reserved.</p>
         </div>
       </div>

@@ -103,7 +103,7 @@ export default function CallForHosts() {
                   Apply for PAIO 2026
                 </a>
                 <a 
-                  href="https://forms.gle/6J4FZbt8g1ZCzFFF8"
+                  href="https://forms.gle/tC3wVea2oZNxWjpk7"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="bg-black text-white px-6 py-3 font-semibold hover:bg-gray-900 transition inline-block"

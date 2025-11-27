@@ -32,8 +32,8 @@ export default function Statistics() {
                 <div className="text-gray-700">Official Contestants</div>
               </div>
               <div className="text-center">
-                <div className="text-3xl font-bold text-black mb-2">13</div>
-                <div className="text-gray-700">Countries + 1 Guest Country</div>
+                <div className="text-3xl font-bold text-black mb-2">14</div>
+                <div className="text-gray-700">13 African countries + 1 Guest Country</div>
               </div>
               <div className="text-center">
                 <div className="text-3xl font-bold text-black mb-2">8</div>

@@ -43,7 +43,7 @@ export default function History() {
 
             <h2 className="text-2xl font-bold mt-8 mb-4 text-gray-900">Strengthening Regional Collaboration</h2>
             <p className="mb-6">
-              In July 2025, Hirwa Arnold served as Rwanda's Team Leader at IOI 2025, alongside Joel Lee. Together, they reinforced relationships among African leaders and strengthened coordination between the ISC and participating countries. This work laid the final structural foundation necessary for a successful inaugural PAIO.
+              In July 2025, Hirwa Arnold served as Rwanda's Team Leader at IOI 2025. Together with Joel Lee, they reinforced relationships among African leaders and strengthened coordination between the ISC and participating countries. This work laid the final structural foundation necessary for a successful inaugural PAIO.
             </p>
 
             <h2 className="text-2xl font-bold mt-8 mb-4 text-gray-900">Contributions of Rwanda Olympiad Coaches</h2>
@@ -68,7 +68,6 @@ export default function History() {
               The first Pan African Informatics Olympiad (PAIO) took place 12–16 September 2025, hosted by Rwanda in an online format. This historic event marked the beginning of a continental initiative to promote excellence in Informatics across Africa.
             </p>
 
-            <h2 className="text-2xl font-bold mt-8 mb-4 text-gray-900">Resources</h2>
             <ul className="list-disc list-inside space-y-2 mb-6">
               <li>
                 <a href="https://www.panafricanio.com/" className="text-blue-600 hover:text-blue-800 underline">Website: https://www.panafricanio.com/</a>

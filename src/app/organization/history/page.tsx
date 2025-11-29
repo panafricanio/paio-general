@@ -70,10 +70,10 @@ export default function History() {
 
             <ul className="list-disc list-inside space-y-2 mb-6">
               <li>
-                <a href="https://www.panafricanio.com/" className="text-blue-600 hover:text-blue-800 underline">Website: https://www.panafricanio.com/</a>
+                <a href="https://2025.panafricanio.com/" className="text-blue-600 hover:text-blue-800 underline">Website: https://2025.panafricanio.com/</a>
               </li>
               <li>
-                <a href="https://www.panafricanio.com/results" className="text-blue-600 hover:text-blue-800 underline">Results: https://www.panafricanio.com/results</a>
+                <a href="https://2025.panafricanio.com/results" className="text-blue-600 hover:text-blue-800 underline">Results: https://2025.panafricanio.com/results</a>
               </li>
             </ul>
           </div>

@@ -7,10 +7,10 @@ export default function Hero() {
           An annual programming competition for high school students across Africa, promoting computational thinking and problem-solving skills.
         </p>
         <div className="flex flex-col sm:flex-row gap-6 justify-center items-center">
-          <a href="https://www.panafricanio.com/" target="_blank" rel="noopener noreferrer" className="bg-black text-white px-8 py-3 font-semibold hover:bg-gray-800 transition">
+          <a href="https://2025.panafricanio.com/" target="_blank" rel="noopener noreferrer" className="bg-black text-white px-8 py-3 font-semibold hover:bg-gray-800 transition">
             PAIO 2025 Website
           </a>
-          <a href="https://www.panafricanio.com/results" target="_blank" rel="noopener noreferrer" className="bg-gray-100 text-black px-8 py-3 font-semibold hover:bg-gray-200 transition">
+          <a href="https://2025.panafricanio.com/results" target="_blank" rel="noopener noreferrer" className="bg-gray-100 text-black px-8 py-3 font-semibold hover:bg-gray-200 transition">
             PAIO 2025 Results
           </a>
         </div>

@@ -17,8 +17,8 @@ export default function Footer() {
           <div>
             <h3 className="text-black font-bold text-lg mb-4">Quick Links</h3>
             <ul className="space-y-2 text-sm">
-              <li><a href="https://www.panafricanio.com/" target="_blank" rel="noopener noreferrer" className="text-gray-800 hover:text-black transition">PAIO 2025 Website</a></li>
-              <li><a href="https://www.panafricanio.com/results" target="_blank" rel="noopener noreferrer" className="text-gray-800 hover:text-black transition">PAIO 2025 Results</a></li>
+              <li><a href="https://2025.panafricanio.com/" target="_blank" rel="noopener noreferrer" className="text-gray-800 hover:text-black transition">PAIO 2025 Website</a></li>
+              <li><a href="https://2025.panafricanio.com/results" target="_blank" rel="noopener noreferrer" className="text-gray-800 hover:text-black transition">PAIO 2025 Results</a></li>
               <li><Link href="/organization/history" className="text-gray-800 hover:text-black transition">History</Link></li>
               <li><Link href="/regulations" className="text-gray-800 hover:text-black transition">Regulations</Link></li>
               <li><Link href="/calls/hosts" className="text-gray-800 hover:text-black transition">Call for Hosts</Link></li>
@@ -30,7 +30,7 @@ export default function Footer() {
             <h3 className="text-black font-bold text-lg mb-4">Follow Us</h3>
             <div className="flex gap-4">
               {/* <a href="#" className="text-gray-800 hover:text-black transition">X</a> */}
-              <a href="#" target='_blank' className="text-gray-800 hover:text-black transition">Facebook</a>
+              {/* <a href="#" target='_blank' className="text-gray-800 hover:text-black transition">Facebook</a> */}
               <a href="https://www.linkedin.com/company/pan-african-informatics-olympiad/about" target='_blank' className="text-gray-800 hover:text-black transition">LinkedIn</a>
             </div>
           </div>

@@ -4,12 +4,12 @@ export default function Updates() {
       year: 2025,
       title: 'PAIO 2025 Results Released',
       description: 'Competition results and statistics are now available',
-      link: 'https://www.panafricanio.com/results',
+      link: 'https://2025.panafricanio.com/results',
       // date: 'September 15, 2025'
     },
     {
       title: 'Competition Resources',
-      link: 'https://www.panafricanio.com/resources',
+      link: 'https://2025.panafricanio.com/resources',
       description: 'Access curated books, links, contests and problem sets to help prepare for PAIO and other olympiads.'
     },
     {

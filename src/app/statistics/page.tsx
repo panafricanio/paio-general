@@ -15,7 +15,7 @@ export default function Statistics() {
               View the complete results and statistics from the Pan African Informatics Olympiad 2025.
             </p>
             <a 
-              href="https://www.panafricanio.com/results" 
+              href="https://2025.panafricanio.com/results" 
               target="_blank" 
               rel="noopener noreferrer"
               className="inline-block bg-black text-white px-6 py-3 font-semibold hover:bg-gray-800 transition"

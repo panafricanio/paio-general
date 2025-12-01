@@ -11,10 +11,10 @@ export default function CallForHosts() {
           
           <div className="space-y-12">
             <div className="border-b border-gray-200 pb-8">
-              <h2 className="text-2xl font-bold mb-4 text-black">Host PAIO 2026 & 2027</h2>
+              <h2 className="text-2xl font-bold mb-4 text-black">Host PAIO 2026 or 2027</h2>
               <p className="text-gray-700 leading-relaxed max-w-3xl">
                 We invite qualified organizations to host the Pan African Informatics Olympiad. 
-                Host countries must establish an Host Organizing Committee (HOC), Host Scientific 
+                Host countries must establish a Host Organizing Committee (HOC), Host Scientific 
                 Committee (HSC), and Host Technical Committee (HTC) to oversee all operations.
               </p>
             </div>
@@ -91,7 +91,7 @@ export default function CallForHosts() {
             <div className="border-t border-gray-200 pt-8 mt-4">
               <h3 className="text-xl font-bold mb-4 text-black">Ready to Apply?</h3>
               <p className="text-gray-700 mb-6 leading-relaxed max-w-3xl">
-                Contact us to receive the detailed hosting guidelines and application forms.
+                If your organization is interested in hosting either PAIO 2026 or PAIO 2027, please fill out the application form below.
               </p>
               <div className="flex gap-4 mb-8">
                 <a 

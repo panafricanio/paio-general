@@ -7,7 +7,7 @@ export default function History() {
       <Header />
       <section className="py-16 bg-white">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h1 className="text-4xl font-bold mb-8 text-gray-900">History of the Establishment of the Pan African Informatics Olympiad (PAIO)</h1>
+          <h1 className="text-4xl font-bold mb-8 text-gray-900">History</h1>
           
           <div className="prose prose-lg max-w-none text-gray-700">
             <p className="mb-6">

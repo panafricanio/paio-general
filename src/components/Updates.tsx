@@ -15,7 +15,7 @@ export default function Updates() {
     {
       title: 'Call for Host',
       link: '/calls/hosts',
-      description: 'Countries interested in hosting PAIO 2026 can now express their interest.'
+      description: 'Countries interested in hosting either PAIO 2026 or PAIO 2027 can now express their interests.'
     },
     {
       title: 'Assembly & Meetings',

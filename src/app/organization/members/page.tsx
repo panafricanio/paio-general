@@ -5,14 +5,14 @@ export default function Members() {
   const countries = [
     { name: 'Algeria', website: 'https://algerianoi.com/', email: 'contact@algerianoi.com', flag: '🇩🇿' },
     { name: 'Djibouti', website: '', email: '', flag: '🇩🇯' },
-    { name: 'Egypt', website: 'http://www.eoi.eg/', email: 'info@eoi.eg', flag: '🇪🇬' },
+    { name: 'Egypt', website: 'https://www.eoi.eg/', email: 'info@eoi.eg', flag: '🇪🇬' },
     { name: 'Ghana', website: 'https://www.africanintelclub.com/', email: 'info@africanintelclub.com', flag: '🇬🇭' },
     { name: 'Kenya', website: '', email: '', flag: '🇰🇪' },
     { name: 'Libya', website: 'https://loi.lati.ly/', email: 'safwan.bouna@lati.ly', flag: '🇱🇾' },
-    { name: 'Mali', website: 'robotsmali.org.', email: 'info@robotsmali.org', flag: '🇲🇱' },
+    { name: 'Mali', website: 'https://robotsmali.org.', email: 'info@robotsmali.org', flag: '🇲🇱' },
     { name: 'Morocco', website: 'https://www.morocco-ioi.com/', email: 'moroccanolympiadinformatics@gmail.com', flag: '🇲🇦' },
     { name: 'Nigeria', website: 'https://www.nmc.edu.ng/', email: 'ojbamidele@nmc.edu.ng', flag: '🇳🇬' },
-    { name: 'Rwanda', website: 'rwandainformaticsolympiad@gmail.com', email: 'https://www.rwandainformatics.org/', flag: '🇷🇼' },
+    { name: 'Rwanda', website: 'https://www.rwandacomputing.org/', email: 'contact@rwandacomputing.org', flag: '🇷🇼' },
     { name: 'South Africa', website: 'https://www.iitpsa.org.za/', email: 'info@olympiad.org.za', flag: '🇿🇦' },
     { name: 'Tunisia', website: 'https://www.facebook.com/ITA.Tunisia', email: 'info.tunisian.association@gmail.com', flag: '🇹🇳' },
     { name: 'Zimbabwe', website: '', email: '', flag: '🇿🇼' }

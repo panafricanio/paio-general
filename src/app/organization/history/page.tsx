@@ -16,10 +16,10 @@ export default function History() {
 
             <h2 className="text-2xl font-bold mt-8 mb-4 text-gray-900">Early Foundations</h2>
             <p className="mb-6">
-              José Esperazano initiated the vision that would ultimately lead to the establishment of the Rwanda Informatics Olympiad (RwIO). Together with Kagaba Etienne, they supported many of the early activities that built the foundation for Informatics education and competitive programming in Rwanda. They were later joined by Hirwa Arnold, who focused on strengthening the academic structure of the program and developing a network of skilled Informatics coaches, laying the groundwork for long-term sustainability.
+              José Esperazano initiated the vision that would ultimately lead to the establishment of the Rwanda Computing Olympiad (RwCO). Together with Kagaba Etienne, they supported many of the early activities that built the foundation for computer science education and competitive programming in Rwanda. They were later joined by Hirwa Arnold, who focused on strengthening the academic structure of the program and developing a network of skilled computing coaches, laying the groundwork for long-term sustainability.
             </p>
             <p className="mb-6">
-              As the initiative expanded, Joel Lee joined the RwIO team and provided crucial support that helped coaches become well-connected and more productive, ultimately making RwIO a reality.
+              As the initiative expanded, Joel Lee joined the RwCO team and provided crucial support that helped coaches become well-connected and more productive, ultimately making RwCO a reality.
             </p>
 
             <h2 className="text-2xl font-bold mt-8 mb-4 text-gray-900">Expansion and Continental Vision</h2>
@@ -27,10 +27,10 @@ export default function History() {
               The aspiration to establish a Pan-African Informatics Olympiad existed from the early stages, but its realization accelerated with the involvement of Joel Lee, who played a pivotal operational role in turning the continental idea into a concrete project.
             </p>
             <p className="mb-6">
-              During IOI 2024, Joel served as Rwanda's first Observer, facilitating key connections among African team leaders. His efforts formed the initial network that would later become central to PAIO's creation. He also brought together experienced global professionals to form the International Scientific Committee (ISC) and collaborated with the Rwanda Informatics Team to establish the Host Committee (HC) and Technical Committee (TC).
+              During IOI 2024, Joel served as Rwanda's first Observer, facilitating key connections among African team leaders. His efforts formed the initial network that would later become central to PAIO's creation. He also brought together experienced global professionals to form the International Scientific Committee (ISC) and collaborated with the Rwanda Computing Olympiad Team to establish the Host Committee (HC) and Technical Committee (TC).
             </p>
             <p className="mb-6">
-              The Rwanda Informatics initiative also benefited from the support of the Rwanda Math Olympiad team, particularly Arun Shanmugathan, who shared valuable organizational experience from the Pan African Mathematics Olympiad, helping shape the structure of PAIO.
+              The Rwanda Computing Olympiad initiative also benefited from the support of the Rwanda Math Olympiad team, particularly Arun Shanmugathan, who shared valuable organizational experience from the Pan African Mathematics Olympiad, helping shape the structure of PAIO.
             </p>
 
             <h2 className="text-2xl font-bold mt-8 mb-4 text-gray-900">Connections from NAOI 2025</h2>
@@ -46,9 +46,30 @@ export default function History() {
               In July 2025, Hirwa Arnold served as Rwanda's Team Leader at IOI 2025. Together with Joel Lee, they reinforced relationships among African leaders and strengthened coordination between the ISC and participating countries. This work laid the final structural foundation necessary for a successful inaugural PAIO.
             </p>
 
-            <h2 className="text-2xl font-bold mt-8 mb-4 text-gray-900">Contributions of Rwanda Olympiad Coaches</h2>
+            <h2 className="text-2xl font-bold mt-8 mb-4 text-gray-900">International Scientific Committee</h2>
             <p className="mb-6">
-              The establishment of PAIO also relied heavily on the dedication of Rwanda's Olympiad coaches.
+              PAIO's success in meeting international standards was made possible by the exceptional expertise and dedication of the International Scientific Committee (ISC). Composed of renowned computer scientists, IOI medalists, and leaders in competitive programming, the ISC played a crucial role in developing and curating high-quality problems that ensure PAIO's alignment with global olympiad standards.
+            </p>
+            
+            <p className="mb-4"><strong>Anton Tsypko</strong> — IOI 2017 Gold Medalist, Team Leader of Ukraine</p>
+            
+            <p className="mb-4"><strong>Prof Pedro Paredes</strong> — Teaching Professor at Princeton, Head of Portugal International Scientific Committee</p>
+            
+            <p className="mb-4"><strong>Bartosz Kostka</strong> — Software Engineer at Google, Member of International Olympiad in Informatics Scientific Committee</p>
+            
+            <p className="mb-4"><strong>Tamio-Vesa Nakajima</strong> — IOI 2017 Gold Medalist, Head of Romanian Scientific Committee</p>
+            
+            <p className="mb-4"><strong>Bernard Ibrahimcha</strong> — IOI 2023 Honorable Mention, Member of Syrian National Scientific Committee and International Informatics Olympiad in Teams (IIOT) Scientific Committee</p>
+            
+            <p className="mb-6"><strong>Qingyu Shi</strong> — Member of Asia Pacific Informatics Olympiad Scientific Committee, Co-President of Universal Cup</p>
+
+            <p className="mb-6">
+              We are deeply grateful to these experts for their invaluable contributions in ensuring that PAIO problems meet international standards of quality, diversity, and rigor.
+            </p>
+
+            <h2 className="text-2xl font-bold mt-8 mb-4 text-gray-900">Contributions of Rwanda Computing Olympiad</h2>
+            <p className="mb-6">
+              The establishment of PAIO also relied heavily on the dedication of Rwanda Computing Olympiad.
             </p>
             <p className="mb-6">
               Jean Paul Elissa played a crucial role by developing the official PAIO 2025 website.
